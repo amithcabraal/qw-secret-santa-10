@@ -262,9 +262,13 @@
       "personName": "Jenna Ortega",
       "maskPosition": {
         "x": 50,
-        "y": 30,
-        "scale": 1,
-        "rotation": 0
+        "y": 35,
+        "scale": 2.4,
+        "rotation": 0,
+        "originalImageDimensions": {
+          "width": 600,
+          "height": 900
+        }
       },
       "showMask": true
     },
@@ -274,9 +278,13 @@
       "personName": "Sabrina Carpenter",
       "maskPosition": {
         "x": 50,
-        "y": 30,
-        "scale": 1,
-        "rotation": 0
+        "y": 36,
+        "scale": 2.2,
+        "rotation": 0,
+        "originalImageDimensions": {
+          "width": 600,
+          "height": 900
+        }
       },
       "showMask": true
     },
@@ -287,20 +295,12 @@
       "maskPosition": {
         "x": 50,
         "y": 30,
-        "scale": 1,
-        "rotation": 0
-      },
-      "showMask": true
-    },
-    {
-      "id": "1733444628050",
-      "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg",
-      "personName": "Jackie Chan",
-      "maskPosition": {
-        "x": 50,
-        "y": 30,
-        "scale": 1,
-        "rotation": 0
+        "scale": 2.4,
+        "rotation": 0,
+        "originalImageDimensions": {
+          "width": 600,
+          "height": 900
+        }
       },
       "showMask": true
     },
@@ -310,9 +310,13 @@
       "personName": "Jackie Chan",
       "maskPosition": {
         "x": 50,
-        "y": 30,
-        "scale": 1,
-        "rotation": 0
+        "y": 44,
+        "scale": 2.8,
+        "rotation": 0,
+        "originalImageDimensions": {
+          "width": 600,
+          "height": 900
+        }
       },
       "showMask": true
     },
@@ -322,9 +326,13 @@
       "personName": "Amanda Seyfried",
       "maskPosition": {
         "x": 50,
-        "y": 30,
-        "scale": 1,
-        "rotation": 0
+        "y": 41,
+        "scale": 2.5,
+        "rotation": 0,
+        "originalImageDimensions": {
+          "width": 600,
+          "height": 900
+        }
       },
       "showMask": true
     },
@@ -334,9 +342,13 @@
       "personName": "Leonardo DiCaprio",
       "maskPosition": {
         "x": 50,
-        "y": 30,
-        "scale": 1,
-        "rotation": 0
+        "y": 41,
+        "scale": 2.8,
+        "rotation": 0,
+        "originalImageDimensions": {
+          "width": 600,
+          "height": 900
+        }
       },
       "showMask": true
     },
@@ -346,9 +358,13 @@
       "personName": "Emma Watson",
       "maskPosition": {
         "x": 50,
-        "y": 30,
-        "scale": 1,
-        "rotation": 0
+        "y": 43,
+        "scale": 2.5,
+        "rotation": 0,
+        "originalImageDimensions": {
+          "width": 600,
+          "height": 900
+        }
       },
       "showMask": true
     },
@@ -358,9 +374,13 @@
       "personName": "Liam Neeson",
       "maskPosition": {
         "x": 50,
-        "y": 30,
-        "scale": 1,
-        "rotation": 0
+        "y": 43,
+        "scale": 2.5,
+        "rotation": 0,
+        "originalImageDimensions": {
+          "width": 600,
+          "height": 900
+        }
       },
       "showMask": true
     },
@@ -369,10 +389,14 @@
       "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/jPsLqiYGSofU4s6BjrxnefMfabb.jpg",
       "personName": "Morgan Freeman",
       "maskPosition": {
-        "x": 50,
-        "y": 30,
-        "scale": 1,
-        "rotation": 0
+        "x": 45,
+        "y": 41,
+        "scale": 2.4,
+        "rotation": 0,
+        "originalImageDimensions": {
+          "width": 600,
+          "height": 900
+        }
       },
       "showMask": true
     },
@@ -382,9 +406,13 @@
       "personName": "Jack Black",
       "maskPosition": {
         "x": 50,
-        "y": 30,
-        "scale": 1,
-        "rotation": 0
+        "y": 38,
+        "scale": 2.6,
+        "rotation": 0,
+        "originalImageDimensions": {
+          "width": 600,
+          "height": 900
+        }
       },
       "showMask": true
     },
@@ -394,9 +422,13 @@
       "personName": "Andrew Garfield",
       "maskPosition": {
         "x": 50,
-        "y": 30,
-        "scale": 1,
-        "rotation": 0
+        "y": 37,
+        "scale": 2.7,
+        "rotation": 0,
+        "originalImageDimensions": {
+          "width": 600,
+          "height": 900
+        }
       },
       "showMask": true
     },
@@ -406,9 +438,13 @@
       "personName": "Ryan Reynolds",
       "maskPosition": {
         "x": 50,
-        "y": 30,
-        "scale": 1,
-        "rotation": 0
+        "y": 46,
+        "scale": 2.6,
+        "rotation": 0,
+        "originalImageDimensions": {
+          "width": 600,
+          "height": 900
+        }
       },
       "showMask": true
     },
@@ -418,9 +454,13 @@
       "personName": "Nicolas Cage",
       "maskPosition": {
         "x": 50,
-        "y": 30,
-        "scale": 1,
-        "rotation": 0
+        "y": 41,
+        "scale": 2.6,
+        "rotation": 0,
+        "originalImageDimensions": {
+          "width": 600,
+          "height": 900
+        }
       },
       "showMask": true
     },
@@ -429,10 +469,14 @@
       "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/cJAHQWX9hVadDFx5WTSBIW0VjvP.jpg",
       "personName": "Mila Kunis",
       "maskPosition": {
-        "x": 50,
-        "y": 30,
-        "scale": 1,
-        "rotation": 0
+        "x": 47,
+        "y": 37,
+        "scale": 2.7,
+        "rotation": 0,
+        "originalImageDimensions": {
+          "width": 600,
+          "height": 900
+        }
       },
       "showMask": true
     },
@@ -442,9 +486,13 @@
       "personName": "Vin Diesel",
       "maskPosition": {
         "x": 50,
-        "y": 30,
-        "scale": 1,
-        "rotation": 0
+        "y": 35,
+        "scale": 2.7,
+        "rotation": 0,
+        "originalImageDimensions": {
+          "width": 600,
+          "height": 900
+        }
       },
       "showMask": true
     },
@@ -454,9 +502,13 @@
       "personName": "Ryan Gosling",
       "maskPosition": {
         "x": 50,
-        "y": 30,
-        "scale": 1,
-        "rotation": 0
+        "y": 37,
+        "scale": 2.7,
+        "rotation": 0,
+        "originalImageDimensions": {
+          "width": 600,
+          "height": 900
+        }
       },
       "showMask": true
     },
@@ -465,10 +517,14 @@
       "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/wtFetpWV8kjBsvzYKN9uEEmPdpy.jpg",
       "personName": "Halle Berry",
       "maskPosition": {
-        "x": 50,
-        "y": 30,
-        "scale": 1,
-        "rotation": 0
+        "x": 48,
+        "y": 36,
+        "scale": 2.3,
+        "rotation": -14,
+        "originalImageDimensions": {
+          "width": 600,
+          "height": 900
+        }
       },
       "showMask": true
     },
@@ -477,10 +533,14 @@
       "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/9xMu2GLC5otUcC11sEWC5aEAERQ.jpg",
       "personName": "Drew Barrymore",
       "maskPosition": {
-        "x": 50,
-        "y": 30,
-        "scale": 1,
-        "rotation": 0
+        "x": 51,
+        "y": 34,
+        "scale": 1.8,
+        "rotation": 0,
+        "originalImageDimensions": {
+          "width": 600,
+          "height": 900
+        }
       },
       "showMask": true
     },
@@ -490,9 +550,13 @@
       "personName": "Daniel Radcliffe",
       "maskPosition": {
         "x": 50,
-        "y": 30,
-        "scale": 1,
-        "rotation": 0
+        "y": 38,
+        "scale": 2.1,
+        "rotation": 0,
+        "originalImageDimensions": {
+          "width": 600,
+          "height": 900
+        }
       },
       "showMask": true
     },
@@ -502,9 +566,13 @@
       "personName": "Willem Dafoe",
       "maskPosition": {
         "x": 50,
-        "y": 30,
-        "scale": 1,
-        "rotation": 0
+        "y": 43,
+        "scale": 2.3,
+        "rotation": 0,
+        "originalImageDimensions": {
+          "width": 600,
+          "height": 900
+        }
       },
       "showMask": true
     },
@@ -514,9 +582,13 @@
       "personName": "Ariana Grande",
       "maskPosition": {
         "x": 50,
-        "y": 30,
-        "scale": 1,
-        "rotation": 0
+        "y": 34,
+        "scale": 2.4,
+        "rotation": -4,
+        "originalImageDimensions": {
+          "width": 600,
+          "height": 900
+        }
       },
       "showMask": true
     },
@@ -526,9 +598,13 @@
       "personName": "Julianne Moore",
       "maskPosition": {
         "x": 50,
-        "y": 30,
-        "scale": 1,
-        "rotation": 0
+        "y": 37,
+        "scale": 2,
+        "rotation": 0,
+        "originalImageDimensions": {
+          "width": 600,
+          "height": 900
+        }
       },
       "showMask": true
     },
@@ -538,9 +614,13 @@
       "personName": "Tom Holland",
       "maskPosition": {
         "x": 50,
-        "y": 30,
-        "scale": 1,
-        "rotation": 0
+        "y": 36,
+        "scale": 2.2,
+        "rotation": 0,
+        "originalImageDimensions": {
+          "width": 600,
+          "height": 900
+        }
       },
       "showMask": true
     },
@@ -549,10 +629,14 @@
       "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/tylFh0K48CZIIhvKlA7WA1XBAtE.jpg",
       "personName": "Zendaya",
       "maskPosition": {
-        "x": 50,
-        "y": 30,
-        "scale": 1,
-        "rotation": 0
+        "x": 46,
+        "y": 41,
+        "scale": 1.9,
+        "rotation": 0,
+        "originalImageDimensions": {
+          "width": 600,
+          "height": 900
+        }
       },
       "showMask": true
     },
@@ -562,9 +646,13 @@
       "personName": "Amy Adams",
       "maskPosition": {
         "x": 50,
-        "y": 30,
-        "scale": 1,
-        "rotation": 0
+        "y": 41,
+        "scale": 2.1,
+        "rotation": 0,
+        "originalImageDimensions": {
+          "width": 600,
+          "height": 900
+        }
       },
       "showMask": true
     },
@@ -574,9 +662,13 @@
       "personName": "Hugh Jackman",
       "maskPosition": {
         "x": 50,
-        "y": 30,
-        "scale": 1,
-        "rotation": 0
+        "y": 48,
+        "scale": 2.4,
+        "rotation": 0,
+        "originalImageDimensions": {
+          "width": 600,
+          "height": 900
+        }
       },
       "showMask": true
     },
@@ -586,9 +678,13 @@
       "personName": "Jennifer Lawrence",
       "maskPosition": {
         "x": 50,
-        "y": 30,
-        "scale": 1,
-        "rotation": 0
+        "y": 39,
+        "scale": 2.4,
+        "rotation": 0,
+        "originalImageDimensions": {
+          "width": 600,
+          "height": 900
+        }
       },
       "showMask": true
     },
@@ -598,9 +694,13 @@
       "personName": "Martin Scorsese",
       "maskPosition": {
         "x": 50,
-        "y": 30,
-        "scale": 1,
-        "rotation": 0
+        "y": 41,
+        "scale": 2.7,
+        "rotation": 0,
+        "originalImageDimensions": {
+          "width": 600,
+          "height": 900
+        }
       },
       "showMask": true
     },
@@ -610,9 +710,13 @@
       "personName": "Rowan Atkinson",
       "maskPosition": {
         "x": 50,
-        "y": 30,
-        "scale": 1,
-        "rotation": 0
+        "y": 42,
+        "scale": 2.2,
+        "rotation": 0,
+        "originalImageDimensions": {
+          "width": 600,
+          "height": 900
+        }
       },
       "showMask": true
     },
@@ -622,9 +726,13 @@
       "personName": "Paul Rudd",
       "maskPosition": {
         "x": 50,
-        "y": 30,
-        "scale": 1,
-        "rotation": 0
+        "y": 47,
+        "scale": 2.3,
+        "rotation": 0,
+        "originalImageDimensions": {
+          "width": 600,
+          "height": 900
+        }
       },
       "showMask": true
     },
@@ -634,9 +742,13 @@
       "personName": "Rosamund Pike",
       "maskPosition": {
         "x": 50,
-        "y": 30,
-        "scale": 1,
-        "rotation": 0
+        "y": 41,
+        "scale": 2.3,
+        "rotation": 0,
+        "originalImageDimensions": {
+          "width": 600,
+          "height": 900
+        }
       },
       "showMask": true
     },
@@ -646,9 +758,13 @@
       "personName": "Anthony Hopkins",
       "maskPosition": {
         "x": 50,
-        "y": 30,
-        "scale": 1,
-        "rotation": 0
+        "y": 41,
+        "scale": 2.3,
+        "rotation": 0,
+        "originalImageDimensions": {
+          "width": 600,
+          "height": 900
+        }
       },
       "showMask": true
     },
@@ -658,9 +774,13 @@
       "personName": "Jodie Foster",
       "maskPosition": {
         "x": 50,
-        "y": 30,
-        "scale": 1,
-        "rotation": 0
+        "y": 39,
+        "scale": 2.7,
+        "rotation": 0,
+        "originalImageDimensions": {
+          "width": 600,
+          "height": 900
+        }
       },
       "showMask": true
     }
